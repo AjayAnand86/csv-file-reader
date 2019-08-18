@@ -8,7 +8,7 @@ import { CSVRecord } from './CSVRecordModel';
 })
 
 export class CSVReaderComponent {
-  title = 'CSV reader';
+  title = 'CSV-reader';
 
   public records: any[] = [];
   @ViewChild('csvReader' ,{ static: true }) csvReader;
