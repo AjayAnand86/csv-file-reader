@@ -15,6 +15,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## UI screenshot
+![csv-file-reader-ui](https://user-images.githubusercontent.com/35381348/63228515-3c569900-c1f4-11e9-887c-e234e1cd33f0.PNG)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
@@ -23,9 +26,13 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+![Start application](https://user-images.githubusercontent.com/35381348/63228551-c6066680-c1f4-11e9-86a0-f0dd6caa21a2.PNG)
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+![Karma](https://user-images.githubusercontent.com/35381348/63228560-f9e18c00-c1f4-11e9-8955-7860c1a29f96.PNG)
 
 ## Running end-to-end tests
 
